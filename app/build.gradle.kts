@@ -19,7 +19,7 @@ if (officialBuild) {
 }
 
 android {
-    namespace = "com.tsng.hidemyapplist"
+    namespace = "com.hicorenational.antifraud"
 
     buildFeatures {
         buildConfig = true
